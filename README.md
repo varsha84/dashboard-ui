@@ -1,6 +1,5 @@
 # dashboard-ui
-Frontend of my dashbaord app 
-https://github.com/varsha84/dashboard/
+Frontend of my dashbaord app   
 
 
 ![Screenshot](screenshot.jpg)
