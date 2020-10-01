@@ -1,5 +1,6 @@
 # dashboard-ui
-frontend of my django dashbaord app
+Frontend of my dashbaord app 
+https://github.com/varsha84/dashboard/
 
 
 ![Screenshot](screenshot.jpg)
