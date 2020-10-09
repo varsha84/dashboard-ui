@@ -2,4 +2,4 @@
 Frontend of my dashbaord app   
 
 
-![Screenshot](screenshot.jpg?raw=true)
+<img src="screenshot.jpg" width="800" /> 
